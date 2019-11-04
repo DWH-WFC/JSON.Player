@@ -1,5 +1,5 @@
 {
- "name"         : "[COLOR FFA0C12C]Gaia[/COLOR]",
+ "name"         : "Abspielen mit Gaia",
  "plugin"       : "plugin.video.gaia",
  "priority"     : 200,
  "id"           : "direct.gaia",

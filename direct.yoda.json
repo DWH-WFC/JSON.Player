@@ -1,5 +1,5 @@
 {
- "name"         : "[COLOR green]Yoda[/COLOR]",
+ "name"         : "Abspielen mit Yoda",
  "plugin"       : "plugin.video.yoda",
  "priority"     : 500,
  "id"           : "direct.yoda",

@@ -1,5 +1,5 @@
 {
- "name"         : "[COLOR red]Venom[/COLOR]",
+ "name"         : "Abspielen mit Venom",
  "plugin"       : "plugin.video.venom",
  "priority"     : 500,
  "id"           : "direct.venom",

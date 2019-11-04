@@ -1,5 +1,5 @@
 {
- "name"         : "Exodus [COLOR blue]Redux[/COLOR]",
+ "name"         : "Abspielen mit Exodus Redux",
  "plugin"       : "plugin.video.exodusredux",
  "priority"     : 500,
  "id"           : "direct.exodusredux",
