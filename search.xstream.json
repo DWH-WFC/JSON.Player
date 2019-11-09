@@ -6,17 +6,26 @@
 "id"           : "search.xstream",
 "filters"      : {},
 "postprocess"  : "",
-"movies"       : [[{	"language"  : "de",
-			"link"      : "plugin://plugin.video.xstream/?function=globalSearch&params=0&site=globalSearch&title=Global%20Suche&searchterm={title}",
-			"steps"     : 
-					[".*"],
-			"action"    : "PLAY"}]],
+"movies"       : [
+	[
+		{"language"  : "de",
+		 "link"      : "plugin://plugin.video.xstream/?function=globalSearch&params=0&site=globalSearch&title=Global%20Suche&searchterm={title}",
+		 "steps"     : 
+			[".*"],
+		 "action"    : "PLAY"
+		}
+	]
+],
 
-"tvshows"      : [[{	"language"  : "de",
-			"link"      : "plugin://plugin.video.xstream/?function=globalSearch&params=0&site=globalSearch&title=Global%20Suche&searchterm={showname}",
-			"steps"     : 
-					[".*"],
-			"action"    : "PLAY"}]],
+"tvshows"      : [
+	[
+		{"language"  : "de",
+		 "link"      : "plugin://plugin.video.xstream/?function=globalSearch&params=0&site=globalSearch&title=Global%20Suche&searchterm={showname}",
+		 "steps"     : 
+			[".*"],
+		"action"    : "PLAY"}
+	]
+],
 
 "musicvideos"  : [],
 
