@@ -1,7 +1,7 @@
 {
  "name"         : "Abspielen mit Netflix",
  "plugin"       : "plugin.video.netflix",
- "priority"     : 300,
+ "priority"     : 500,
  "id"           : "search.netflix",
  "movies"       : [
   [
