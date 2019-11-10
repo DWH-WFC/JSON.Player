@@ -3,14 +3,19 @@
  "plugin"       : "plugin.video.netflix",
  "priority"     : 300,
  "id"           : "search.netflix",
- "movies"       : [[
+ "movies"       : [
+  [
    {
+    "language"  : "de",
     "link"      : "plugin://plugin.video.netflix/directory/search/search/{title_+}/",
     "steps"     : [ "{title}" ]
    }
-  ]],
- "tvshows"      : [[
+  ]
+ ],
+ "tvshows"      : [
+  [
    {
+    "language"  : "de",
     "link"      : "plugin://plugin.video.netflix/directory/search/search/{clearname_+}/",
     "steps"     : [ "{clearname}", ".* {season}", "{episode}" ]
    },
@@ -22,5 +27,6 @@
     "link"      : "plugin://plugin.video.netflix/directory/search/search/{clearname_+}/",
     "steps"     : [ "{clearname}", "{clearname}", "{episode}" ]
    }
-  ]]
+  ]
+ ]
 }
