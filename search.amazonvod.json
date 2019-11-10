@@ -2,7 +2,7 @@
  "name"         : "Abspielen mit Amazon VOD",
  "repository"   : "repository.sandmann79.plugins",
  "plugin"       : "plugin.video.amazon-test",
- "priority"     : 900,
+ "priority"     : 500,
  "id"           : "Amazon VOD",
  "filters"      : {},
  "postprocess"  : "",
