@@ -2,7 +2,7 @@
  "name"         : "Abspielen mit Exodus",
  "repository"   : "repository.exodus",
  "plugin"       : "plugin.video.exodus",
- "priority"     : 700,
+ "priority"     : 500,
  "id"           : "Exodus",
  "filters"      : {},
  "postprocess"  : "",
