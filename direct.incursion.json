@@ -2,7 +2,7 @@
  "name"         : "Abspielen mit Incursion",
  "repository"   : "incursion.repository",
  "plugin"       : "plugin.video.incursion",
- "priority"     : 200,
+ "priority"     : 500,
  "id"           : "Incursion",
  "filters"      : {},
  "postprocess"  : "",
