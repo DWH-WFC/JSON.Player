@@ -2,7 +2,7 @@
  "name"         : "Abspielen mit Lastship",
  "repository"   : "repository.lastship",
  "plugin"       : "plugin.video.lastship",
- "priority"     : 700,
+ "priority"     : 500,
  "id"           : "Lastship",
  "filters"      : {},
  "postprocess"  : "",
