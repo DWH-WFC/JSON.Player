@@ -1,6 +1,6 @@
 {
  "name"         : "Abspielen mit Amazon VOD",
- "repository"   : "na",
+ "repository"   : "repository.sandmann79.plugins",
  "plugin"       : "plugin.video.amazon-test",
  "priority"     : 900,
  "id"           : "Amazon VOD",
@@ -9,6 +9,7 @@
  "movies"       : [
   [
    {
+    "language"  : "de",
     "link"      : "plugin://plugin.video.amazon-test/",
     "steps"     : [
      "Search",
@@ -22,6 +23,7 @@
  "tvshows"      : [
   [
    {
+    "language"  : "de",
     "link"      : "plugin://plugin.video.amazon-test/",
     "steps"     : [
      "Search",
