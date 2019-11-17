@@ -1,6 +1,6 @@
 # JSON.Player für den WRP-MetaPlayer
 
-![logo](https://raw.githubusercontent.com/DWH-WFC/plugin.video.wrp.meta/master/resources/art/icon.png)
+![logo](https://raw.githubusercontent.com/DWH-WFC/repository.wrp-metaplayer/master/icon.png)
 
 ***
 
