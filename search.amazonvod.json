@@ -9,7 +9,6 @@
  "movies"       : [
   [
    {
-    "language"  : "de",
     "link"      : "plugin://plugin.video.amazon-test/",
     "steps"     : [
      "Search",
@@ -23,7 +22,6 @@
  "tvshows"      : [
   [
    {
-    "language"  : "de",
     "link"      : "plugin://plugin.video.amazon-test/",
     "steps"     : [
      "Search",
