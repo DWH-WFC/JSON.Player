@@ -6,7 +6,6 @@
  "movies"       : [
   [
    {
-    "language"  : "de",
     "link"      : "plugin://plugin.video.netflix/directory/search/search/{title_+}/",
     "steps"     : [ "{title}" ]
    }
@@ -15,7 +14,6 @@
  "tvshows"      : [
   [
    {
-    "language"  : "de",
     "link"      : "plugin://plugin.video.netflix/directory/search/search/{clearname_+}/",
     "steps"     : [ "{clearname}", ".* {season}", "{episode}" ]
    },
