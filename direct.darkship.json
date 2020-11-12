@@ -3,7 +3,7 @@
  "repository"   : "repository.wrp",
  "plugin"       : "plugin.video.darkship",
  "priority"     : 100,
- "id"           : "Lastship",
+ "id"           : "Darkship",
  "filters"      : {},
  "postprocess"  : "",
  "movies"       : [
